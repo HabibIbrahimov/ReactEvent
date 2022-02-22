@@ -1,11 +1,12 @@
 import React from 'react'
 
- function Navbar() {
+function Navbar() {
   return (
     <div>
-        <h1>Events</h1>
-        <hr></hr>
+      <h1>Navbar</h1>
+      <hr></hr>
     </div>
+
   )
 }
-export default Navbar
+export default  Navbar
